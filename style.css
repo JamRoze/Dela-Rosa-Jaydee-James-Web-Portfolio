@@ -118,8 +118,9 @@ section{
     max-width: 600px;
 }
 .info-box h1{
-    font-size: 5em;
+    font-size: clamp(2.5em, 7vw, 5em);
     font-weight: 500;
+    line-height: 1.1;
 }
 .info-box h3{
     font-size: 2em;
@@ -214,8 +215,10 @@ section{
 }
 .header{
     text-align: center;
-    font-size: 5em;
+    font-size: clamp(2.5em, 8vw, 5em); 
     margin: 0.5em 0;
+    line-height: 1.2;
+    word-wrap: break-word;
 }
 .project-container{
     display: grid;
