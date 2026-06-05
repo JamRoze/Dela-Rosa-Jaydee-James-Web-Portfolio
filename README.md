@@ -54,12 +54,12 @@ Dela-Rosa-Jaydee-James-Web-Portfolio
 ├── .github/workflows/deploy.yml   ← Auto-deploy GitHub Action
 ├──.gitattributes
 ├── Cortex.png
+├── README.md
 ├── RandomDude.jpg
 ├── ScreenshotDelaRosa.png
 ├── index.html
 ├── script.js
-├── style.css
-└── README.md
+└── style.css
 ```
 
 ---
